@@ -1,0 +1,3 @@
+[submodule "SMAASH"]
+	path = SMAASH
+	url = https://github.com/BGERGO7/SMAASH.git
